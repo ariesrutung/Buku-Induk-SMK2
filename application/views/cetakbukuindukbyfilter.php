@@ -24,6 +24,7 @@ th{
 td{
 	font-weight: normal;
 }
+
 </style>';
 foreach ($allsiswa AS $detail) {
 $html .= '
